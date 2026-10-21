@@ -1,0 +1,20 @@
+SOUTHERNERS — mise en ligne sur Vercel (site-southerners.vercel.app)
+
+Il n'y a que 2 choses à faire.
+
+A. ENVOYER LES FICHIERS (comme la première fois)
+   Remplace les fichiers de ton projet par ceux de ce zip : index.html, package.json, le dossier api/
+   et le dossier music/. Tout à la racine du projet, pas dans un sous-dossier. Vercel redéploie seul.
+
+B. CRÉER LA BASE DE DONNÉES (un clic)
+   Vercel > ton projet > onglet "Storage" > "Create Database" > choisis "Upstash" (Redis), offre gratuite
+   > "Connect to Project" (ton projet). Puis onglet "Deployments" > Redeploy.
+
+C. DEVENIR PRÉSIDENT (dans le site, pas sur Vercel)
+   Ouvre le site tout de suite après. Bouton "Accès gestion" en bas du menu de gauche, laisse le champ vide,
+   valide : le premier à le faire devient Président. Fais-le avant de donner le lien à qui que ce soit.
+
+SI LE LIEN DEMANDE UNE CONNEXION VERCEL : Settings > Deployment Protection > désactive la protection.
+
+Les arrivants reçoivent un numéro (Arrivant 1, 2...). Dans la liste de droite, le Président relie le bon
+numéro à sa fiche avec l'icône de lien.
